@@ -1,0 +1,1 @@
+print("Mentor angry at student for not doing homework")
